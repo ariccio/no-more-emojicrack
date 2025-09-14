@@ -37,6 +37,11 @@ The extracted files I use to reduce the ocular diarrhea that LLMs seem to love t
 <img width="287" height="276" alt="Screenshot 2025-09-13 at 9 20 50 PM" src="https://github.com/user-attachments/assets/a96edf06-ed35-4234-b02d-4c11c3fdfd1c" />
 
 
+
+`mother-effing-emojis-emojicrack-and-cool-unicode.md` is the one I've been using for several weeks with wonderful results.
+
+`mother-effing-emojis-emojicrack-and-cool-unicode-advanced.md` is one I'm currently testing.
+
 -
 -
 -
