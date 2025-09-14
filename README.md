@@ -2,7 +2,8 @@
 The extracted files I use to reduce the ocular diarrhea that LLMs seem to love to generate
 
 
-Simply add this to your instructions file:
+> [!NOTE]
+> Simply add this to your instructions file:
 ```markdown
 ## emoji use and stylistic text
 - Use emojis only where they add clarity and value to the code. The `✗` emoji actually does work well quite often for ERRORS, and the `✓` works well for the top level successes.  Do not use them gratuitously or excessively. Do not dilute the user's attention - for many remaining use cases something less obtrusive like one of these may suffice unless something truly rare in the codebase is happening:
@@ -56,7 +57,5 @@ Simply add this to your instructions file:
 -
 
 Make Jonathan happy - protect your eyes today!
-
-![Jonathan](https://github.com/user-attachments/assets/ed87a6be-03ae-45ea-8127-ecb04d0e1667)
 
 
