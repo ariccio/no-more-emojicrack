@@ -21,6 +21,7 @@ Simply add this to your instructions file:
   **Weather & Nature:**
   "⛈ ⛇ ⛆ ⛅︎ ⛄︎ ☔︎ ☄ ☃ ☂ ☁ ☀ ☼"
 
+
   **Human & Expression:**
   "☺ ☻ ☹ ☟ ☞ ☜ ☛ ☚ ☕︎ ⛸"
 
@@ -35,5 +36,8 @@ Simply add this to your instructions file:
 <img width="287" height="276" alt="Screenshot 2025-09-13 at 9 20 50 PM" src="https://github.com/user-attachments/assets/a96edf06-ed35-4234-b02d-4c11c3fdfd1c" />
 
 
+Make Jonathan happy - protect your eyes today!
+
+![Jonathan](https://github.com/user-attachments/assets/ed87a6be-03ae-45ea-8127-ecb04d0e1667)
 
 
