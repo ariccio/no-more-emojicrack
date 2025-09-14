@@ -1,6 +1,10 @@
-MIT License
+MIT License - slightly modified
 
 Copyright (c) 2025 Alexander Riccio
+
+The only modification that I wish to make to the MIT license is that if you
+use this to help generate code for any software that ends up with more than a
+thousand or so users, please give me some minimal credit :)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
